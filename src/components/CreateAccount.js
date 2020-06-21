@@ -22,7 +22,7 @@ export default function CreateAccount({navigation}){
                 />
                 <TextInput
                     style={styles.input}
-                    placeholder='Telefone3'
+                    placeholder='Telefone'
                 />
                 <TextInput
                     style={styles.input}
